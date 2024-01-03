@@ -4,8 +4,8 @@
 
 /**
  * binary_tree_insert_left - function that inserts a node
- * parent: pointer
- * value: vale
+ * @parent: pointer
+ * @value: vale
  * Return: _new
  */
 
