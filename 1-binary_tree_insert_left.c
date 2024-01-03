@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * binary_tree_insert_left - function that inserts a node as the left-child of another node
+ * binary_tree_insert_left - function that inserts a node
  * parent: pointer
- * value: value
+ * value: vale
  * Return: _new
  */
 
